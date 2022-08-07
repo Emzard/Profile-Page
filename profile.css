@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(/resources/images/Background.svg);
+    background-image: url(Background.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
